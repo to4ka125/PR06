@@ -17,5 +17,5 @@ SELECT * FROM role;
 | 3       | user      | Права только на просмотр |
 
 ### По всем вопросам обращаться в ВК 
-ВК https://vk.com/vitosaints  \
-:e-mail: to4ka1261@mail.ru
+[ВК](https://vk.com/vitosaints)  \
+[:e-mail:](to4ka1261@mail.ru)
